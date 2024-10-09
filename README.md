@@ -3,7 +3,7 @@
 
 
 ![App Screenshot](./img/Group%201.png)
-Esse projeto é um da trilha de React do Ignite, 
+Esse projeto é da trilha de React do Ignite, 
 bootcamp com especialização em React.
 ## Tecnologias 🚀
 
