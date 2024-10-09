@@ -25,7 +25,7 @@ bootcamp com especialização em React.
 
  Clone o repositório
 ```bash
- $ git clone https://github.com/Hribeir6/Timer
+ $ git clone https://github.com/Hribeir6/Timer.git
 ```
 
 Vá para o diretório do projeto
