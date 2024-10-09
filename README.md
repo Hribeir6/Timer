@@ -30,7 +30,7 @@ bootcamp com especialização em React.
 
 Vá para o diretório do projeto
 ```bash 
- $ cd ToDo-List
+ $ cd Timer
 ```
 
 Instale as dependências
